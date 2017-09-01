@@ -1,0 +1,14 @@
+#wrapper {
+	color: white;
+	height: 100px;
+	width:100px;
+	text-align: center;
+}
+#yourdiv {
+	background-color: blue; 
+	display: inline-block;
+	margin-bottom: 20px;
+	}
+body {
+	font-family: Bellefair;
+}
